@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596744162 source:c:\users\personal\documents\repo\c2plus_course\first_task\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1596732428 source:c:\users\personal\documents\repo\c2plus_course\first_task\src\pointers.cpp
+
