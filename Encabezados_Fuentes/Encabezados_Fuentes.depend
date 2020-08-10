@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1597029446 source:c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\main.cpp
+	"player.h"
+	"scenario.h"
+	"map_cell.h"
+	<iostream>
+
+1596817784 c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\player.h
+	<iostream>
+
+1596817859 source:c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\player.cpp
+	"player.h"
+
+1596995901 source:c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\map.cpp
+	"map.h"
+
+1596915381 c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\map.h
+
+1597031591 c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\scenario.h
+	"map_cell.h"
+
+1597031656 source:c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\scenario.cpp
+	"scenario.h"
+	"player.h"
+
+1597028870 c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\map_cell.h
+
+1597002308 source:c:\users\personal\documents\repo\c2plus_course\encabezados_fuentes\map_cell.cpp
+	"map_cell.h"
+
